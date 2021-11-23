@@ -10,7 +10,6 @@ namespace MCD_TryCatchOrnekler
     {
         static void Main(string[] args)
         {
-
             try
             {
                 int a;
