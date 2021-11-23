@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_TryCatchOrnekler", "MCD_TryCatchOrnekler\MCD_TryCatchOrnekler.csproj", "{17AE77E2-CC9B-40E4-9FBC-D5144945A534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AE77E2-CC9B-40E4-9FBC-D5144945A534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AE77E2-CC9B-40E4-9FBC-D5144945A534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AE77E2-CC9B-40E4-9FBC-D5144945A534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AE77E2-CC9B-40E4-9FBC-D5144945A534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D7A89FF-2C1C-4E61-8D2E-0FD79658C031}
+	EndGlobalSection
+EndGlobal
